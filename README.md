@@ -1,4 +1,4 @@
-# M3-Group-Assignment-1-
+# M4-Group-Assignment-1
 Created by Benjamin, Camilla and Tobias
 
 ## Boston Housing Price Prediction With PyTorch Neural Network
