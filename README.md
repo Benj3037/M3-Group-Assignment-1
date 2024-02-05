@@ -6,6 +6,9 @@ Created by Benjamin, Camilla and Tobias
 ### Task
 Build, train, and evaluate neural network models using PyTorch to predict Boston housing prices.
 
+### Dataset
+The dataset used for this project is the Boston Housing dataset, which is available in https://www.kaggle.com/datasets/vikrishnan/boston-house-prices/data
+
 ### Approach
 1. **Feature Selection**: Identify relevant features for predicting housing prices.
 
@@ -25,5 +28,4 @@ Build, train, and evaluate neural network models using PyTorch to predict Boston
 
 9. **Evaluating the Final Model**: Evaluate the final model on the test data to assess its performance.
 
-### Dataset
-The dataset used for this project is the Boston Housing dataset, which is available in https://www.kaggle.com/datasets/vikrishnan/boston-house-prices/data
+### Results
