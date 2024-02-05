@@ -8,13 +8,21 @@ Build, train, and evaluate neural network models using PyTorch to predict Boston
 
 ### Approach
 *Feature Selection*: Identify relevant features for predicting housing prices.
-n\*Feature Engineering*: Conduct any necessary feature transformations or creations.
-n\*Standard ML Preprocessing*: Perform standard preprocessing steps such as scaling or normalization if required.
-n\*Train-Test Split*: Split the dataset into training and testing sets.
+
+*Feature Engineering*: Conduct any necessary feature transformations or creations.
+
+*Standard ML Preprocessing*: Perform standard preprocessing steps such as scaling or normalization if required.
+
+*Train-Test Split*: Split the dataset into training and testing sets.
+
 *Defining Neural Network Architecture*: Design the neural network architecture using PyTorch.
+
 *Defining Training Loop*: Set up the training loop for the model.
+
 *Training the Model*: Train the neural network on the training data.
+
 *Experimenting with Hyperparameters*: Experiment with at least 5 different variations of hyperparameters including number of layers/neurons, activation functions, epochs, optimizers, and learning rates.
+
 *Evaluating the Final Model*: Evaluate the final model on the test data to assess its performance.
 
 ### Dataset
