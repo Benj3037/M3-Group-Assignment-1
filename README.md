@@ -31,13 +31,15 @@ The dataset used for this project is the Boston Housing dataset, which is availa
 ### Results
 After conducting 5 different variations of hyperparameters (e.g., number of layers/neurons, activation functions, epochs, optimizers, learning rates, etc.). 
 
-It has been evaulated that the best variations of an architecture is model_net5 consists of:
+It has been evaulated that the best variations from the train data of the architecture of model_net5. It consists of:
 
-- Hyperparamters that consist of 10 epochs and learning_rate of 0.01.
+- Hyperparameters that consist of 10 epochs and learning_rate of 0.01.
 - Parameter with a weight of 50
 - 2 hidden layers consisting of: Linear(13,25) + ReLU + Dropout(0.33) and Linear(25,25) + ReLU + Dropout(0.33)
 - Output layer consisting of Linear(25,1) and Identity() for a regression problem
 - Using Stochastic Gradient Descent as our Optimizer
 - Batch size consist of 13
 
-The average loss for epoch 10 showing a loss of **0.0456** which is the best outcome.
+The average loss for epoch 10 showing a loss offrom train data 0.0444 which is the best outcome.
+
+In comparison with the test data. The average loss for epoch 10 showing a loss offrom train data 0.0382 which is the best outcome.
