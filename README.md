@@ -40,6 +40,6 @@ It has been evaulated that the best variations from the train data of the archit
 - Using Stochastic Gradient Descent as our Optimizer
 - Batch size consist of 13
 
-The average loss for epoch 10 showing a loss offrom train data 0.0444 which is the best outcome.
+The average loss for epoch 10 showing a loss from train data of 0.0444 which is the best outcome.
 
-In comparison with the test data. The average loss for epoch 10 showing a loss offrom train data 0.0382 which is the best outcome.
+In comparison with the test data. The average loss for epoch 10 showing a loss of 0.0382 which is the best outcome.
